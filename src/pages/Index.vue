@@ -28,7 +28,7 @@
 
 <page-query>
 query Projects {
-  projects: allProject {
+  projects: allProject(sortBy: "order", order: DESC) {
     edges {
       node { 
         id
@@ -37,6 +37,7 @@ query Projects {
         year
         thumbnail
         categories
+        order
       }
     }
   }
