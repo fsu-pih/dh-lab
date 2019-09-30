@@ -1,7 +1,7 @@
 ---
 title: about the dhlab
 thumbnail: "../static/uploads/mona lisa api.jpg"
-year: "2020"
+year: "2019"
 categories:
 - dhlab
 order: 100
