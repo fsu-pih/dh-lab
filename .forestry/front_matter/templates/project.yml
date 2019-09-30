@@ -16,6 +16,16 @@ fields:
   label: categories
   config:
     use_select: false
+- name: order
+  type: number
+  label: order
+  description: sort order for appearance on the front page
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
 - projects/molecular-gastronomy.md
 - projects/the-london-book-fair.md
