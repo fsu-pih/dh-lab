@@ -4,6 +4,7 @@ thumbnail: "../static/uploads/mona lisa api.jpg"
 year: "2020"
 categories:
 - dhlab
+order: 100
 
 ---
 The dhlab at the Program in Interdisciplinary Humanities is a collaborative learning and research space, serving primarily faculty and graduate students. It contains a learning lab, workstations for computationally intensive and advanced work in digital humanities, and meeting and work space. Events and classes regularly take place here, including
