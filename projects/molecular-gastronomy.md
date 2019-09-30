@@ -1,6 +1,6 @@
 ---
 title: about the dhlab
-thumbnail: "../static/uploads/25c51f70439237.5ba36d85ba934.jpg"
+thumbnail: "../static/uploads/mona lisa api.jpg"
 year: "2020"
 categories:
 - dhlab
