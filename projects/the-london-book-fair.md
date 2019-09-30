@@ -1,5 +1,5 @@
 ---
-title: Digital Humanities MA Program
+title: 'digital humanities: MA Program'
 thumbnail: "../static/uploads/main page image.jpg"
 year: "2019"
 categories:
