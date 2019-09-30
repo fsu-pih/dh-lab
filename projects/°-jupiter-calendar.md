@@ -1,9 +1,9 @@
 ---
-title: Demos Project for the Study of Data Humanities
-thumbnail: "../static/uploads/827e4260883469.5a5cccc989703.jpg"
+title: 'data humanities: Demos Project'
+thumbnail: "../static/uploads/30552300773_b63e829849_k.jpg"
 year: "2019"
 categories:
 - demos
 
 ---
-The Demos Project seeks to study people in data. 
+The Demos Project seeks to study people in data.
