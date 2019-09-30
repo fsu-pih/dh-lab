@@ -1,11 +1,17 @@
 ---
-title: Molecular Gastronomy
-thumbnail: '../static/uploads/25c51f70439237.5ba36d85ba934.jpg'
-year: '2019'
+title: about the dhlab
+thumbnail: "../static/uploads/25c51f70439237.5ba36d85ba934.jpg"
+year: "2020"
 categories:
-  - identity
+- dhlab
+
 ---
+The dhlab at the Program in Interdisciplinary Humanities is a collaborative learning and research space, serving primarily faculty and graduate students. It contains a learning lab, workstations for computationally intensive and advanced work in digital humanities, and meeting and work space. Events and classes regularly take place here, including
 
-This project was created by [[explicit]](https://www.behance.net/explic_it), visit their Behance profile for more awesomeness.
+* Classes like Introduction to Digital Humanities (Hum 5835) and Digital Pedagogy (Hum 5838)
+* Meetings, like Digital Scholars
+* Informal meetups, such as the various Digital Humanities Interest groups
 
-![](/uploads/d1eb3270439237.5ba36d85ba378.jpg)![](/uploads/39fa2c70439237.5ba37480eeb2e.gif)![](/uploads/b2fa9a70439237.5ba36d85b97d2.jpg)![](/uploads/70a95970439237.5ba3cd1d868d1.gif)![](/uploads/05ef7170439237.5bae3c249353c.jpg)![](/uploads/e6509c70439237.5ba51d718b01c.jpg)![](/uploads/4decee70439237.5baced37c49e4.jpg)
+You can find further information about the dhlab online at the public repository: [https://github.com/fsu-pih/dhlab]()
+
+You can see the schedule for this space (and reserve space for interest groups) at [https://dhlab.skedda.com]() and see a list of upcoming events/reservations at [https://dhlab.skedda.com/booking?viewtype=2]()
