@@ -1,7 +1,7 @@
 {
   "site_name": "Digital Humanities Lab",
   "header_title": "dhlab",
-  "first_letter_only": true,
+  "first_letter_only": false,
   "email": "nichlas@itsnwa.com",
   "social": [
     {
