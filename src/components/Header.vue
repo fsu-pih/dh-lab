@@ -22,7 +22,7 @@
       </span>
     </g-link>
     <div class="contact">
-        <a class="link" href="https://dhlab.skedda.com">Schedule</a> 
+        <a class="link" href="https://dhlab.skedda.com">Room Availability and Schedule</a> 
     </div>
         <div class="contact">
             <a class="link" :href="`mailto:${data.email}`">Contact</a>
