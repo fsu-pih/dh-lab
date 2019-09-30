@@ -5,6 +5,11 @@
   "email": "digitalhumanities@protonmail.com",
   "social": [
     {
+      "channel": "Web",
+      "handle": "pih",
+      "link_text": "pih.fsu.edu"
+    },
+    {
       "channel": "twitter",
       "handle": "fsudh",
       "link_text": "tweet"
